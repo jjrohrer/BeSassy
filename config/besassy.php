@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'name'=>'Tweaked Sassiness'
+    'name'=>'Tweaked Sassiness on web'
 ];
