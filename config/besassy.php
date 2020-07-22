@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'name'=>'Initial Sassiness'
+    'name'=>'Tweaked Sassiness'
 ];
